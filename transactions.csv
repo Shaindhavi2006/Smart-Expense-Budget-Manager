@@ -1,0 +1,5 @@
+ID,Type,Amount,Category,Date,Description
+1,Income,10000.00,Salary,11-10-2026,Monthly salary
+2,Expense,250.00,Food,11-10-2026,Breakfast
+3,Expense,6000.00,Shopping,12-10-2026,dress
+4,Expense,5000.00,Education,13-10-2026,studies
